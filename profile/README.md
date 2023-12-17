@@ -19,7 +19,7 @@ Chui Network is a cutting-edge blockchain platform designed to revolutionize the
 Interested in building on Chui Network or contributing to our community? Here's how you can get started:
 
 1. **Clone our Repositories**: Check out our [GitHub repositories](https://github.com/ChuiNetwork) for various tools and projects.
-2. **Read the Documentation**: Dive into our [documentation](https://Chui.vip/docs) for detailed guides and API references.
+2. **Read the Documentation**: Dive into our [documentation](https://chui.network/docs) for detailed guides and API references.
 3. **Join the Community**: Connect with us on [Discord](https://discord.com/invite/r7cKSQWJ) or [Telegram](https://t.me/Chuinetwork) to join the discussion.
 
 ## Contribute to Chui Network 💡
@@ -28,7 +28,7 @@ Contributions are what make the open-source community such an amazing place to l
 
 ## Stay Updated 📬
 
-Follow us on [Twitter](https://x.com/Chuinetwork) for the latest updates and join our [newsletter](https://Chui.vip) to stay informed about all things Chui Network.
+Follow us on [Twitter](https://x.com/Chuinetwork) for the latest updates and join our [newsletter](https://chui.network) to stay informed about all things Chui Network.
 
 ## License 📄
 
