@@ -1,7 +1,7 @@
 
 ![logo](https://github.com/ChuiNetwork/.github/assets/56628755/59313d24-8ab2-4383-9a84-9e5449a58844)
 
-# 🌟 Chui Network - Empowering Layer 1 Blockchain Innovation 
+# 🌟 Empowering Layer 1 Blockchain Innovation 
 
 Welcome to the official GitHub repository of **Chui Network**! 🚀
 
