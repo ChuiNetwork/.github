@@ -1,4 +1,4 @@
-# 🌟 Chui Network - Empowering Blockchain Innovation in Africa & the Globe🌐
+# 🌟 Chui Network - Empowering Blockchain Innovation 
 
 Welcome to the official GitHub repository of **Chui Network**! 🚀
 
