@@ -1,4 +1,6 @@
-# 🌟 Chui Network - Empowering Blockchain Innovation 
+![Banner - 02](https://github.com/ChuiNetwork/.github/assets/56628755/dd89ac3c-fd2b-43f6-8030-7557fdf3e7de)
+
+# 🌟 Chui Network - Empowering Layer 1 Blockchain Innovation 
 
 Welcome to the official GitHub repository of **Chui Network**! 🚀
 
