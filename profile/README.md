@@ -1,4 +1,5 @@
-![Banner - 02](https://github.com/ChuiNetwork/.github/assets/56628755/dd89ac3c-fd2b-43f6-8030-7557fdf3e7de)
+
+![logo](https://github.com/ChuiNetwork/.github/assets/56628755/59313d24-8ab2-4383-9a84-9e5449a58844)
 
 # 🌟 Chui Network - Empowering Layer 1 Blockchain Innovation 
 
